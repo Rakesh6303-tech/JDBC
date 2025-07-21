@@ -45,15 +45,21 @@ public class First {
 				String name = res.getString(2);
 				int age = res.getInt(3);
 				String gender = res.getString(4);
-				double phone  = res.getDouble(5);
+				long phone  = res.getLong(5);
 				double salary = res.getDouble(6);
 				
 //				int s_id = res.getInt("s_id");
 //				String name = res.getString("name");
 //				int age = res.getInt("age");
 //				String gender = res.getString("gender");
-//				double phone  = res.getDouble("phone");
+//				long phone  = res.getLong("phone");
 //				double salary = res.getDouble("salary");
+
+			// while(res.next())
+			// {
+			// 	System.out.println(res.getInt("s_id")+" "+res.getString("name")+" "+
+			//           res.getInt("age")+" "+res.getString("gender")+" "+res.getDouble("salary") +" "+res.getLong("phone"));
+			// }
 				
 				System.out.println(s_id +" "+name+" "+age+" "+gender+" "+phone+" "+salary);
 			}
