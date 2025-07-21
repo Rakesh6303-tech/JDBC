@@ -4,11 +4,6 @@
   */
 
 
-![Batch Processing in JDBC](https://www.sitesbay.com/jdbc/images/jdbc-batch-processing.png)
-
-
-
-
 package rjdbc;
 import java.sql.Connection;
 import java.sql.DriverManager;
