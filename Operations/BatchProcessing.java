@@ -2,6 +2,15 @@
                       this increases efficiency  because. without {BP} you would need to individually send n Queries,
                       resulting in hit to the DB n times.
   */
+
+
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sitesbay.com%2Fjdbc%2Fjdbc-batch-processing&psig=AOvVaw2yZehqnflxfjgiKm4fo1E_&ust=1753179824259000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCgyv_dzY4DFQAAAAAdAAAAABAK
+
+
+
+
+
 package rjdbc;
 import java.sql.Connection;
 import java.sql.DriverManager;
