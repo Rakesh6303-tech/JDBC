@@ -4,9 +4,7 @@
   */
 
 
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sitesbay.com%2Fjdbc%2Fjdbc-batch-processing&psig=AOvVaw2yZehqnflxfjgiKm4fo1E_&ust=1753179824259000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCgyv_dzY4DFQAAAAAdAAAAABAK
-
+![Batch Processing in JDBC](https://www.sitesbay.com/jdbc/images/jdbc-batch-processing.png)
 
 
 
